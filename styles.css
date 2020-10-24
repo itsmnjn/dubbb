@@ -42,7 +42,12 @@ nav img {
   max-width: 3rem;
 }
 
-#cta {
+#contact {
+  margin-right: 24px;
+}
+
+#cta,
+#contact {
   text-decoration: underline;
   color: #ffe47f;
   padding-top: 8px;
